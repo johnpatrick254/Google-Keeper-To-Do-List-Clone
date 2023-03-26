@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Google-Keeper-To-List-Clone/static/js/main.d198d37f.js",
-    "index.html": "/Google-Keeper-To-List-Clone/index.html",
-    "main.d198d37f.js.map": "/Google-Keeper-To-List-Clone/static/js/main.d198d37f.js.map"
+    "main.js": "/Google-Keeper-To-DO-List-Clone/static/js/main.d198d37f.js",
+    "index.html": "/Google-Keeper-To-DO-List-Clone/index.html",
+    "main.d198d37f.js.map": "/Google-Keeper-To-DO-List-Clone/static/js/main.d198d37f.js.map"
   },
   "entrypoints": [
     "static/js/main.d198d37f.js"
