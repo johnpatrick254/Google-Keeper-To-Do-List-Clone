@@ -2,7 +2,7 @@
   
   "name": "google-keeper-clone",
   "version": "0.1.0",
-  "homepage": "https://johnpatrick254.github.io/Google-Keeper-To-DO-List-Clone/",
+  "homepage": "https://johnpatrick254.github.io/Google-Keeper-To-Do-List-Clone/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
