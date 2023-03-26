@@ -1,5 +1,7 @@
-# Google-Keeper-To-List-Clone
-Google Keeper App Clone
+# Google-Keeper-To-DO-List-Clone
+**Google Keeper App Clone**
+
+*usage*
 
 Type in your task title and description then click the plus sign to add!
 
